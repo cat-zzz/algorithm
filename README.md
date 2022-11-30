@@ -11,5 +11,5 @@
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-5.  与我联系<2680417551@qq.com>
+5.  与我联系<babygql@qq.com>
 
